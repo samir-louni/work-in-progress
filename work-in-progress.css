@@ -1,0 +1,40 @@
+body
+{background-color: wheat;}
+p
+{font-size: large}
+h2
+{font-size: xx-large
+}
+p
+{font-style: italic;}
+p
+{color: rgb(241, 212, 43);}
+article
+{position: absolute; bottom: 0em;}
+article
+{text-decoration: underline red;}
+p1
+{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+p1
+article
+{
+    color: seagreen;
+}
+body
+{background-image: url(https://i.pinimg.com/originals/bf/67/b6/bf67b626fad5bfc1fef1f99820ddaf6c.jpg);}
+  p1
+  {font-size: 1cm;}
+  p{font-size: 0.7cm;}
+  h2
+  {font-size: 1cm;}
+  article
+  {font-size: 1.2em;}
+
+  
+h2
+{color: rgb(235, 232, 59);}
+
+h2
+{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+article
+{color: gray}
